@@ -36,6 +36,10 @@ USE IT TO GENERATE ACTION CODE, THEN PASTE IT IN /.github/workflows/main.yml
 
 -->
 
+<p align=center>
+    Also check out my <a href="https://github.com/Tebsickle/Portfolio">portfolio</a>, which includes some of my non-programming work!
+</p>
+
 <hr/> <!------------------------------------------->
 
 <h2 align=center>Contact Me!</h2>
