@@ -36,9 +36,9 @@ Hello! I'm a Computer Science student in the Class of 2029 at North Carolina Sta
 <!-- 
 
 USE THIS SITE TO GENERATE METRICS.
-https://metrics.lecoq.io/embed?user=Tebsickle 
+https://metrics.lecoq.io/embed?user=Tebsickle
 
-METRICS CAN SHOW PROJECT DETAILS AS WELL.
+USE IT TO GENERATE ACTION CODE, THEN PASTE IT IN /.github/workflows/main.yml
 
 -->
 

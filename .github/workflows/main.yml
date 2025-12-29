@@ -42,4 +42,4 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: FlaskNAS, Nightfall, SamsLootBoxes
           plugin_repositories_order: pinned, featured, starred, random
-          plugin_repositories_pinned: 0
+          plugin_repositories_pinned: 3
