@@ -1,6 +1,17 @@
-## Hi there 👋
+<p align=center>
 
-[![Tebsickle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tebsickle)](https://github.com/Tebsickle/github-readme-stats)
+![Header Banner](./images/header-banner.png)
+
+![Followers](https://img.shields.io/github/followers/Tebsickle?style=flat&color=purple)
+
+</p>
+
+<br/>
+
+## Introduction
+
+
+
 
 <!--
 **Tebsickle/Tebsickle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
