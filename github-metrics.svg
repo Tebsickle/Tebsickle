@@ -220,7 +220,7 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="218.77202123741162" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="218.77202123741162" y="0" width="87.48277380000539" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="218.77202123741162" y="0" width="87.48277380000539" height="8" fill="#E22837"/>
                     <rect mask="url(#languages-bar)" x="306.254795037417" y="0" width="68.18403960004672" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="374.4388346374637" y="0" width="40.36617466064161" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="414.80500929810535" y="0" width="37.01472424604494" height="8" fill="#a52a22"/>
@@ -236,9 +236,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#E22837" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Brigadier
+                        mcfunction
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -293,7 +293,7 @@
                                         <span>created May 17 2025</span>
                                     </div>
                                 </div>
-                                <div class="field description">A locally hosted file-hosting service made with Flask.</div>
+                                <div class="field description">A locally managed file-hosting service made with Flask.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -434,7 +434,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Dec 2025, 15:46:47 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Dec 2025, 15:51:33 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
