@@ -1,15 +1,20 @@
 ![Header Banner](./images/header-banner.png)
+<!-- 
+Header was made using 
+https://leviarista.github.io/github-profile-header-generator/ 
+-->
+
 
 <p align=center>
-    <img src="https://komarev.com/ghpvc/?username=Tebsickle&style=flat&color=ff69b4&logo=github" alt="Views" />
+    <img src="https://vbr.nathanchung.dev/badge?page_id=Tebsickle&color=590d22&style=for-the-badge&logo=Github" alt="Views" />
     <a href="https://github.com/Tebsickle?tab=followers"><img src="https://img.shields.io/github/followers/Tebsickle?style=flat&color=purple" alt="Followers" /></a>
 </p>
 
 <hr/>
 
-## <center> About Me </center>
+<h2 align=center>About Me </h2>
 
-Hello! I'm a Computer Science student in the Class of 2029 at North Carolina State University. I like expressing my creative side as much as possible, and enjoy learning how various systems work from the ground up. I typically work with Python, Java, C#, or Brigadier, Minecraft's command language. 
+Hello! I'm a Computer Science student in the Class of 2029 at North Carolina State University. I like expressing my creative side as much as possible, and enjoy exploring how various systems work from the ground up. I typically work with Python, Java, C#, and Brigadier, Minecraft's command language. 
 
 - I primarily think about problems from a theory perspective, and working backwards from there.
 - I always ask myself, "How was that done?"
@@ -20,36 +25,34 @@ Hello! I'm a Computer Science student in the Class of 2029 at North Carolina Sta
 
 ##  Projects 
 
+<!-- REPLACE THIS SECTION WITH METRICS ADDON -->
 
-<table align="center">
-    <tr>
-        <td align="center">
-            <h3><u>FlaskNAS</u></h3>
-            <p>
-                The
-            </p>
-        </td>
-        <td>2</td>
-    </tr>
-    <tr align="center">
-        <td align="center">3</td>
-        <td align="center">4</td>
-    </tr>
-</table>
+<hr/>
 
-</center>
+<h2 align=center>Metrics</h2>
 
-<!--
-**Tebsickle/Tebsickle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 
 
-Here are some ideas to get you started:
+USE THIS SITE TO GENERATE METRICS.
+https://metrics.lecoq.io/embed?user=Tebsickle 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+METRICS CAN SHOW PROJECT DETAILS AS WELL.
+
 -->
+
+<hr/>
+
+<h2 align=center>Contact Me!</h2>
+
+<a href="https://www.linkedin.com/in/samuel-smithers-833451346/">
+    <img src="./images/linkedin.png" height="40em" />
+</a>
+
+
+<!-- 
+TODO:
+
+- Upload more of my projects into GitHub.
+- Figure out a way to safely publicize FlaskNAS.
+
+ -->
