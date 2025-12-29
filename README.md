@@ -1,10 +1,9 @@
 ![Header Banner](./images/header-banner.png)
 
-<center>
-
-![Views](https://komarev.com/ghpvc/?username=Tebsickle&style=flat&color=ff69b4&logo=github) [![Followers](https://img.shields.io/github/followers/Tebsickle?style=flat&color=purple)](https://github.com/Tebsickle?tab=followers)
-
-</center>
+<p align=center>
+    <img src="https://komarev.com/ghpvc/?username=Tebsickle&style=flat&color=ff69b4&logo=github" alt="Views" />
+    <a href="https://github.com/Tebsickle?tab=followers"><img src="https://img.shields.io/github/followers/Tebsickle?style=flat&color=purple" alt="Followers" /></a>
+</p>
 
 <hr/>
 
