@@ -7,7 +7,8 @@ https://leviarista.github.io/github-profile-header-generator/
 
 <p align=center>
     <img src="https://vbr.nathanchung.dev/badge?page_id=Tebsickle&color=590d22&style=for-the-badge&logo=Github" alt="Views" />
-    <a href="https://github.com/Tebsickle?tab=followers"><img src="https://img.shields.io/github/followers/Tebsickle?style=flat&color=purple" alt="Followers" /></a>
+    <a href="https://github.com/Tebsickle?tab=followers"><img src="https://img.shields.io/github/followers/Tebsickle?style=for-the-badge&logo=github&color=purple
+    " alt="Followers" /></a>
 </p>
 
 <hr/>
