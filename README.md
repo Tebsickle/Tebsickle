@@ -50,9 +50,10 @@ METRICS CAN SHOW PROJECT DETAILS AS WELL.
 
 <hr/> <!------------------------------------------->
 
-<h2 align=center>Inspiration</h2>
-
-
+<!-- 
+Check out some other cool github profiles that I took some inspiration from.
+https://abhisheknaiidu.github.io/awesome-github-profile-readme/
+ -->
 
 <!-- 
 TODO:
