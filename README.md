@@ -21,12 +21,6 @@ Hello! I'm a Computer Science student in the Class of 2029 at North Carolina Sta
 
 <hr/> <!------------------------------------------->
 
-<h2 align=center>Projects</h2>
-
-<!-- REPLACE THIS SECTION WITH METRICS ADDON -->
-
-<hr/> <!------------------------------------------->
-
 <h2 align=center>Metrics</h2>
 
 <p align=center>
