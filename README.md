@@ -1,17 +1,44 @@
-<p align=center>
-
 ![Header Banner](./images/header-banner.png)
 
-![Followers](https://img.shields.io/github/followers/Tebsickle?style=flat&color=purple)
+<center>
 
-</p>
+![Views](https://komarev.com/ghpvc/?username=Tebsickle&style=flat&color=ff69b4&logo=github) [![Followers](https://img.shields.io/github/followers/Tebsickle?style=flat&color=purple)](https://github.com/Tebsickle?tab=followers)
 
-<br/>
+</center>
 
-## Introduction
+<hr/>
+
+## <center> About Me </center>
+
+Hello! I'm a Computer Science student in the Class of 2029 at North Carolina State University. I like expressing my creative side as much as possible, and enjoy learning how various systems work from the ground up. I typically work with Python, Java, C#, or Brigadier, Minecraft's command language. 
+
+- I primarily think about problems from a theory perspective, and working backwards from there.
+- I always ask myself, "How was that done?"
+
+<hr/>
+
+<center>
+
+##  Projects 
 
 
+<table align="center">
+    <tr>
+        <td align="center">
+            <h3><u>FlaskNAS</u></h3>
+            <p>
+                The
+            </p>
+        </td>
+        <td>2</td>
+    </tr>
+    <tr align="center">
+        <td align="center">3</td>
+        <td align="center">4</td>
+    </tr>
+</table>
 
+</center>
 
 <!--
 **Tebsickle/Tebsickle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
