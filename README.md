@@ -12,16 +12,14 @@ https://leviarista.github.io/github-profile-header-generator/
 
 <hr/>
 
-<h2 align=center>About Me </h2>
+<h2 align=center>About Me</h2>
 
-Hello! I'm a Computer Science student in the Class of 2029 at North Carolina State University. I like expressing my creative side as much as possible, and enjoy exploring how various systems work from the ground up. I typically work with Python, Java, C#, and Brigadier, Minecraft's command language. 
+Hello! I'm a Computer Science student in the Class of 2028 at North Carolina State University. I like expressing my creative side as much as possible, and enjoy exploring how various systems work from the ground up. I typically work with Python, Java, C#, and Brigadier, Minecraft's command language.
 
 - I primarily think about problems from a theory perspective, and working backwards from there.
 - I always ask myself, "How was that done?"
 
 <hr/> <!------------------------------------------->
-
-<h2 align=center>Metrics</h2>
 
 <p align=center>
     <img src="/github-metrics.svg"/>
