@@ -21,8 +21,6 @@ Hello! I'm a Computer Science student in the Class of 2028 at North Carolina Sta
 
 <hr/> <!------------------------------------------->
 
-<h2 align=center>Metrics</h2>
-
 <p align=center>
     <img src="/github-metrics.svg"/>
 </p>
